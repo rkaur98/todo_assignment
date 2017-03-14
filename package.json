@@ -1,0 +1,21 @@
+{
+  "name": "rupinder",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "projectfinal"
+  },
+  "author": "rupinder",
+  "license": "ISC",
+  "devDependencies": {
+    "surge": "^0.18.0"
+  },
+  "dependencies": {
+    "surge": "^0.18.0"
+  },
+  "description": "project_todo"
+}

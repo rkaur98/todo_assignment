@@ -1,0 +1,71 @@
+
+body{
+  width: 100%;
+  max-width: 1000px;
+  border : 2px solid black;
+  margin : 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+.wrap{
+  background-color: #b8b894;
+  width: 100%;
+}
+
+header{
+  background: linear-gradient(to bottom right, red, yellow);
+  text-align: center;
+  padding: 20px;
+}
+
+h1{
+  color: white;
+}
+
+p{
+  margin: 2%;
+}
+
+
+li {
+  cursor: pointer;
+  position: relative;
+  list-style-type: none;
+  font-family: helvetica;
+  font-size: 2em;
+  border :1px solid black;
+  margin-bottom: 5px;
+  color: black;
+  padding: 0 ;
+  background-color: white;
+ 
+}
+.delete{
+  
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 5px;
+  margin: 5px ;
+}
+
+main{
+  width: 96%;
+  margin: 2%;
+  padding: 20px 0;
+
+}
+
+
+ol li.checked {
+    background: #888;
+    color: #fff;
+    text-decoration: line-through;
+}
+ol{
+  padding : 0 ;
+}
+
+
